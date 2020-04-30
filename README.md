@@ -1,10 +1,13 @@
 # DJukebox
 
-## Frameworks Used
+## Frameworks
 
 - React (Frontend)
 - Express (Backend)
-- MongoDB (Database)
+
+## Tools
+
+- MongoDB Cloud (Database)
 
 ## Description
 

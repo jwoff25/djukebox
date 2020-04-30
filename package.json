@@ -24,6 +24,7 @@
     "express-session": "^1.17.0",
     "http-errors": "~1.6.3",
     "http-proxy-middleware": "^1.0.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.9.6",
     "node-fetch": "^2.6.0",
     "node-json-db": "^1.0.3",
